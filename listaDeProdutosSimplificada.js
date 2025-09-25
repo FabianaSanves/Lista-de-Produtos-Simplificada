@@ -32,7 +32,7 @@ function listarItens() {
 }
 
 // Recebe produtos do usuário
-console.log('----------e-Wish List, seja Bem vindo!----------'); 
+console.log('---------e-Wish List, seja Bem vindo!---------'); 
     function menuPrincipal() {
   while (true) {
     console.log('\n--- MENU DE OPÇÕES ---');
